@@ -7,7 +7,7 @@ import java.sql.PreparedStatement;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import javax.swing.JOptionPane;
-import package1.Login;
+import admin.Login;
 
 /**
  *

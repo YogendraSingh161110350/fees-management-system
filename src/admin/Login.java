@@ -1,9 +1,5 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
-package package1;
 
+package admin;
 import fees_managment_system.SignUp;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
